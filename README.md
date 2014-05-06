@@ -40,7 +40,7 @@ Find and open the alternate file (implementation or spec) in a new split:
 [pathogen.vim](https://github.com/tpope/vim-pathogen) is the recommended installation method. 
 
     cd ~/.vim/bundle
-    git clone git@github.groupondev.com:users-team/alt-ruby.vim.git
+    git clone https://github.com/clembradley/alt-ruby.git
 
 It is also recommended that you add the following mappings to your .vimrc:
 
