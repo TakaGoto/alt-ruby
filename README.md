@@ -1,7 +1,7 @@
 alt-ruby.vim
 ============
 
-Alt-ruby.vim is a lightweight plugin that was developed during a hackfest to assist with finding related ruby spec and implementation files.
+Alt-ruby.vim is a lightweight Vim plugin that was developed during a hackfest to assist with finding related ruby spec and implementation files.
 It is influenced by Rails.vim and Alternate.vim, but attempts to improve upon the success rate of these plugins.
 For example, Rails.vim struggles to find related files that are nested deep within complicated file structures,
 such as services/api/lib/app/controllers/api/v2/incentives.rb. If you attempt to find the alternate file,
